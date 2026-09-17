@@ -20,3 +20,11 @@
     m3. Sprint Retrospective
         p1. Discuss the work that was completed during the sprint
         p2. Move incomplete work back to backlog and close the sprint
+
+4. Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+    An epic is like the parent story of a series of sub stories. It is the overarching problem/feature that is suppose to be completed in the long run.
+    Moving on, a story is a software system requirment that is a sub task of the big feature that you are planning on doing. These are the tasks you work on in the sprint.
+    So a story only takes up part of the sprint but not more than that, barring any issues that might arise and stall development. A Bug
+    is a type of issue and the smallest unit of work amoung all these issue types. It is a problem that arises when working on a story and is probably a small code change to 
+    fix the issue and finish the development of a story. Finally, a task is more general than a story. While a story explains a requirment or feature,
+    a task can represent work such as setting something up, configure a tool, or writing documentation. Its more open-ended than a story.
