@@ -7,3 +7,16 @@
 2. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
     The product owner sets the direction for the team and is responsible for releases ans stakeholder management. on
     the other hand, the scrum master handles Scrum-related tasks including JIRA and leading sprint meetings and daily stand-ups
+
+3. What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings
+    m1. Sprint Planning
+        p1. Determine what should be completed during the upcoming sprint
+        p2. Move stories that are in the sprint scope from backlog to the current sprint
+
+    m2. Daily Stand-up
+        p1. Discuss work that has been completed
+        p2. Discuss the work planned for the day.
+
+    m3. Sprint Retrospective
+        p1. Discuss the work that was completed during the sprint
+        p2. Move incomplete work back to backlog and close the sprint
