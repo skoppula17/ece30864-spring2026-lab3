@@ -1,0 +1,5 @@
+1. What are the Pros and Cons of Agile Devemopment?
+    p1. Agile handles the changes mroe dynamically and easily during the development phase.
+    p2. The customer can monitor and continously check on the project and its progress more easily
+    c1. Agile requires mroe communication which can cost time and money.
+    c2. There is a chance of scope creep because the project keeps changing between each sprint.
